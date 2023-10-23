@@ -19,3 +19,27 @@
     border-right: 0.1rem solid white;
     padding-right: 15px;
 }
+
+.bg-custom-gray {
+    background-color: #bec0c2;
+}
+
+.profile-border-right {
+    color:black;
+    border-right: 0.1rem solid black;
+    padding-right: 15px;
+}
+
+.profile-pic {
+    position: absolute;
+    margin-top:15em;
+    z-index: 2;
+}
+
+.mt-6 {
+    margin-top: 5rem;
+}
+
+.mt-8 {
+    margin-top: 8rem;
+}
